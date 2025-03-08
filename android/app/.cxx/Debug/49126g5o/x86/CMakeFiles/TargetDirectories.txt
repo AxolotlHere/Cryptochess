@@ -1,0 +1,2 @@
+/home/void/Workspace/Programming/appdev/CryptoChess/cryptochess/android/app/.cxx/Debug/49126g5o/x86/CMakeFiles/edit_cache.dir
+/home/void/Workspace/Programming/appdev/CryptoChess/cryptochess/android/app/.cxx/Debug/49126g5o/x86/CMakeFiles/rebuild_cache.dir

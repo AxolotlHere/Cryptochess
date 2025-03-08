@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/void/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/void/android_sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/void/Workspace/Programming/appdev/CryptoChess/cryptochess/android/app/.cxx/Debug/49126g5o/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/void/android_sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/void/Workspace/Programming/appdev/CryptoChess/cryptochess/android/app/.cxx/Debug/49126g5o/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
